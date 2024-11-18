@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 A programmer with an ardent passion for Full Stack Development <br>🔭 Final year Computer science  @ VIT Bhopal<br>🌱 Currently Learning AWS<br>
+💻 A programmer with an ardent passion for Full Stack Development <br>🔭 Final year Computer science  @ VIT Bhopal<br>🌱 Building KaneAI<br>
 
 
 ## 🌐 Socials:
