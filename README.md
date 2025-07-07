@@ -7,7 +7,7 @@ hi, im Kartikay 🔮
 @@ Final year  at VIT 🎓@@
 + Full Stack Developer
 - Building KaneAI 🚩
-! AWS  Certified
-# 👨‍💻 Building Microserives architecture and AI Agents 
+! Microservices & AI Agents
+I occasionally brew code.
 ```
 ------
