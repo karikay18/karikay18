@@ -3,10 +3,10 @@
 <img align="left" src="./img/gopher_coffee.gif">
 
 ```diff
-hi, im Sannidhya 🔮
-@@ Final Yr at VIT 🎓@@
-+ Flutter Developer
-- GitHub Campus Expert 🚩
+hi, im Kartikay 🔮
+@@ Final year  at VIT 🎓@@
++ Full Stack Developer
+- Building KaneAI 🚩
 ! Google Cloud Arcade Facilitator
 + Campus Fellow @Hack2Skill
 # 👨‍💻 3x Hacktoberfest Repository maintainer
